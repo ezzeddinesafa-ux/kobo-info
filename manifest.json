@@ -1,8 +1,15 @@
 {
   "name": "Kobo Info",
   "short_name": "Kobo Info",
-  "start_url": "./index.html",
+  "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#FFF",
-  "theme_color": "#1E90FF"
+  "background_color": "#005DAA",
+  "theme_color": "#005DAA",
+  "icons": [
+    {
+      "src": "icons/icon-513.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
